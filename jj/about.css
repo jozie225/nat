@@ -1,0 +1,24 @@
+body{
+    background-color:white;
+    opacity: 20px;
+    background-size: 250vh;
+    background-position: center;
+
+}
+ul
+{
+float:right;
+padding-right: 2cm;
+font-family: comic;
+}
+body h1{
+     opacity: 100px;
+    font-family: Comic Sans MS;
+    color: pink;
+    
+}
+h4{
+    font-family: century Gothic;
+    color: white;
+    font-style: normal;
+}
